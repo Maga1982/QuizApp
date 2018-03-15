@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
                     correctAnswer_No = correctAnswer_No + 1;
 
                 }
-                Toast.makeText(MainActivity.this, "congrats Total No. of answers correct " + correctAnswer_No, Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this, "congrats lakshmi Total No. of answers correct " + correctAnswer_No, Toast.LENGTH_LONG).show();
 
             }
         });
