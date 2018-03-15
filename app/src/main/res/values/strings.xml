@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name"> Kids Quiz App</string>
+    <string name="question_head">Question no:1</string>
+    <string name="question_1_firsthalf">1. Jenny went to see the</string>
+    <string name="question_1_secondhalf">because she was sick.</string>
+    <string name="question_1_A">teacher</string>
+    <string name="question_1_B">actor</string>
+    <string name="question_1_C">school</string>
+    <string name="question_1_D">doctor</string>
+    <string name="question_head_2">Question no:2</string>
+    <string name="question_2">2. Number Series</string>
+    <string name="question_2_2">1 6 9 1 6 </string>
+    <string name="question_head_3">Question no:3</string>
+    <string name="question_3">3. The Sun rises in the East?</string>
+    <string name="question_3_1">True</string>
+    <string name="question_3_2">False</string>
+    <string name="question_head_4">Question no:4</string>
+    <string name="question_4">4. Check all correct statements about earth</string>
+    <string name="question_4_1"> The Sun controls our seasons.</string>
+    <string name="question_4_2"> It makes up 98 percent of the matter in the solar system.</string>
+    <string name="question_4_3">  Without the gravity of the Sun, the Earth would go spinning off into space.</string>
+    <string name="question_4_4"> all the above</string>
+
+
+
+
+
+
+</resources>
